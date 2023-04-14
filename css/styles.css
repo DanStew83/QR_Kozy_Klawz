@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+    text-align: center;
+}
+
+p{
+    color: #68F7F4;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+span{
+    text-decoration: underline;
+}
+
+h1{
+    font-family: 'Meows' , sans-serif;
+}
+
+.attrib{
+    color: #666666;
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-size: 1.5rem;
+}
+
+
+.container{
+    background-color: #2459D5;
+    border-radius: 5%;
+    position: relative;
+    height: 32.5rem;
+    width: 25rem;
+    padding-top: 2rem;
+    display: flexbox;
+    margin: 100px auto 20px;
+
+}
+
+.QR{
+    height: 18rem;
+    width: 18rem;
+    border-radius: 5%;
+}
+
+.logo{
+    width: 20rem;
+    height: 5rem;
+    border-radius: 10%;
+}
+
+.para{
+    position: relative;
+    line-height: 2;
+}
