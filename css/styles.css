@@ -6,6 +6,8 @@ body{
 p{
     color: #68F7F4;
     font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 1.15rem;
+    padding: 0 5px;
 }
 
 span{
@@ -27,7 +29,7 @@ h1{
     background-color: #2459D5;
     border-radius: 5%;
     position: relative;
-    height: 32.5rem;
+    height: 28.75rem;
     width: 25rem;
     padding-top: 2rem;
     display: flexbox;
